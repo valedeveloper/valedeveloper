@@ -2,7 +2,8 @@
 
 👩‍💻 Actualmente, estoy persiguiendo mi sueño de convertirme en una experta en Análisis y Desarrollo de Sistemas.
 
-![image](https://github.com/valedeveloper/valedeveloper/assets/107570711/4cdc9852-ab1d-4e77-ade6-0f301557bea6)
+
+![Valeria Jiménez(3)](https://github.com/valedeveloper/valedeveloper/assets/107570711/33d431a2-eb68-4fcb-a778-a16d34a0a002)
 
 
 <h3>Mi Trayectoria</h3>
