@@ -1,7 +1,6 @@
 <h1>¡Hola! 👋 Soy Valeria Jiménez Bedoya</h1>
 
-
-💙Soy una apasionada desarrolladora Full Stack en constante aprendizaje y evolución   <br/>👩‍💻 Actualmente, estoy persiguiendo mi sueño de convertirme en una experta en Análisis y Desarrollo de Sistemas.
+👩‍💻 Actualmente, estoy persiguiendo mi sueño de convertirme en una experta en Análisis y Desarrollo de Sistemas.
 
 ![image](https://github.com/valedeveloper/valedeveloper/assets/107570711/4cdc9852-ab1d-4e77-ade6-0f301557bea6)
 
