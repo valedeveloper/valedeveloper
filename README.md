@@ -5,7 +5,19 @@
 
 ![Valeria Jiménez(3)](https://github.com/valedeveloper/valedeveloper/assets/107570711/33d431a2-eb68-4fcb-a778-a16d34a0a002)
 
+
+
+
+
 <h3>Mis Habilidades</h3>
+<h5>Soft Skills</h5>
+<ul>
+  <li>🗨️ Comunicación efectiva<strong></li>
+  <li>🤝 Trabajo en equipo<strong></li>
+  <li>🔍 Resolución de problemas<strong></li>
+  <li>🔄 Adaptabilidad<strong></li>
+</ul>
+<h5>Hard Skills</h5>
 <ul>
   <li>🛠️ Habilidades de Frontend:<strong> JavaScript, React, Tailwind CSS y Redux.</strong></li>
   <li>⚙️ En el servidor, me muevo cómodamente con <strong>Node.js.</strong></li>
