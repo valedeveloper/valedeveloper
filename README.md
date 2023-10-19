@@ -1,33 +1,22 @@
 <h1>¡Hola! 👋 Soy Valeria Jiménez Bedoya</h1>
-
-👩‍💻 Actualmente, estoy persiguiendo mi sueño de convertirme en una experta en Análisis y Desarrollo de Sistemas.
-
+<p>👩‍💻 Desarrolladora apasionada por la innovación y el código limpio. 💡</p>
 
 ![Valeria Jiménez(3)](https://github.com/valedeveloper/valedeveloper/assets/107570711/33d431a2-eb68-4fcb-a778-a16d34a0a002)
 
-
-
-
-
 <h3>Mis Habilidades</h3>
-<h5>Soft Skills</h5>
+<p>🤝 Colaboradora entusiasta y solucionadora de problemas. Siempre lista para un nuevo desafío. 💪</p>
 <ul>
-  <li>🗨️ Comunicación efectiva<strong></li>
-  <li>🤝 Trabajo en equipo<strong></li>
-  <li>🔍 Resolución de problemas<strong></li>
-  <li>🔄 Adaptabilidad<strong></li>
-</ul>
-<h5>Hard Skills</h5>
-<ul>
-  <li>🛠️ Habilidades de Frontend:<strong> JavaScript, React, Tailwind CSS y Redux.</strong></li>
+  <li>🚀 Escribo en <strong>JavaScript</strong>, construyo con <strong>React</strong>,     
+   estilizo con <strong>Tailwind</strong> y aseguro la calidad con 
+    <strong>TypeScript</strong>. Mi frontend es mi lienzo creativo. 🎨</li>
   <li>⚙️ En el servidor, me muevo cómodamente con <strong>Node.js.</strong></li>
-  <li>📊 En el mundo de las bases de datos, trabajo con <strong>MongoDB y SQL Server.</strong></li>
-  <li>💼 También tengo experiencia en el desarrollo de aplicaciones de escritorio con <strong>C# .NET.</strong></li>
+  <li>📊 ¿Bases de datos? <strong>MongoDB y SQL Server</strong> son mis alidados.</li>
+  <li>💼 También tengo experiencia en el desarrollo de aplicaciones de escritorio con 
+   <strong>C# .NET.</strong></li>
 </ul>
 <h3>Mi Trayectoria</h3>
 <ul>
   <li>🌟1 año de experiencia en el mundo de la tecnología y el desarrollo web.</li>
-  
   <li>🚀Siempre en busca de nuevos desafíos y aprendizaje continuo.</li>
   <li>💡Me encanta crear aplicaciones web increíbles y aprender de cada proyecto.</li>
 </ul>
@@ -38,5 +27,5 @@
 <li>🚀 <a href="https://github.com/valedeveloper/MapMern.git">Proyecto Navegación por Mapa</a>: Proyecto con el cual aprendí y di mis primeros pasos al lado del servidor con Node Js.</li>
 <li>💾 <a href="https://github.com/valedeveloper/HuellaDigital.git">Proyecto escritorio Asistencia</a>: Una aplicación de escritorio de C# .NET que registra la asistencia de estudiantes con su huella dactilar.</li>
 </ul>
-<h4>¡Estoy emocionada por cada nueva oportunidad de colaboración y aprendizaje!💪💻</h3>
-<h4>¡Gracias por visitar mi perfil de GitHub! Espero que encuentres mi trabajo interesante y que podamos conectarnos pronto. 😊</h4>
+<h4>🤖 Navegando hacia el futuro, estoy explorando la inteligencia artificial y emocionantes tecnologías emergentes. 🌌</h3>
+<h4>¡Vamos a crear juntos! Conéctate y exploremos el mundo del código. 😊🚀</h4>
