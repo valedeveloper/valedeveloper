@@ -24,6 +24,7 @@
 <h3>Proyectos Destacados</h3>
 <ul>
   <li>🌐 <a href="https://github.com/MitchellArevalo/Good4U.git">Tienda virtual Ecommerce Opra</a>: Una aplicación web que desarrollé con un equipo de programadores, usé React y Redux.</li>
+<li>🚀<a href="https://albertjota.vercel.app/">LandingPage:</a> Desarrollé esta SPA (Single Page Application) para una empresa de publicidad, donde empleé TypeScript para fortalecer la estructura del código y amplié mis habilidades en React y CSS puro.</li>
 <li>📍 <a href="https://github.com/valedeveloper/MapMern.git">Proyecto Navegación por Mapa</a>: Proyecto con el cual aprendí y di mis primeros pasos al lado del servidor con Node Js.</li>
 <li>💾 <a href="https://github.com/valedeveloper/HuellaDigital.git">Proyecto escritorio Asistencia</a>: Una aplicación de escritorio de C# .NET que registra la asistencia de estudiantes con su huella dactilar.</li>
 </ul>
