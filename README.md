@@ -1,5 +1,5 @@
 <h1>¡Hola! 👋 Soy Valeria Jiménez Bedoya</h1>
-<p>👩‍💻 Desarrolladora apasionada por la innovación y el código limpio. 💡</p>
+<p>👩‍💻 Desarrolladora apasionada por la innovación y el código limpio 💡</p>
 
 ![Valeria Jiménez(3)](https://github.com/valedeveloper/valedeveloper/assets/107570711/33d431a2-eb68-4fcb-a778-a16d34a0a002)
 
@@ -16,7 +16,7 @@
 </ul>
 <h3>Mi Trayectoria</h3>
 <ul>
-  <li>🌟1 año de experiencia en el mundo de la tecnología y el desarrollo web.</li>
+  <li>🌟2 años de experiencia en el mundo de la tecnología y el desarrollo web.</li>
   <li>🎯Siempre en busca de nuevos desafíos y aprendizaje continuo.</li>
   <li>💡Me encanta crear aplicaciones web increíbles y aprender de cada proyecto.</li>
 </ul>
@@ -29,4 +29,3 @@
 <li>💾 <a href="https://github.com/valedeveloper/HuellaDigital.git">Proyecto escritorio Asistencia</a>: Una aplicación de escritorio de C# .NET que registra la asistencia de estudiantes con su huella dactilar.</li>
 </ul>
 <h4>🤖 Navegando hacia el futuro, estoy explorando la inteligencia artificial y emocionantes tecnologías emergentes. 🌌</h3>
-<h4>¡Vamos a crear juntos! Conéctate y exploremos el mundo del código. 😊🚀</h4>
