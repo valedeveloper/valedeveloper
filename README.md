@@ -1,4 +1,4 @@
-<h1>¡Hola! 👋 Soy Valeria Jiménez Bedoya</h1>
+<h1>¡Hola! 👋 Soy Valeria</h1>
 <p>👩‍💻 Desarrolladora apasionada por la innovación y el código limpio 💡</p>
 
 ![Valeria Jiménez(3)](https://github.com/valedeveloper/valedeveloper/assets/107570711/33d431a2-eb68-4fcb-a778-a16d34a0a002)
@@ -28,4 +28,4 @@
 <li>📍 <a href="https://github.com/valedeveloper/MapMern.git">Proyecto Navegación por Mapa</a>: Proyecto con el cual aprendí y di mis primeros pasos al lado del servidor con Node Js.</li>
 <li>💾 <a href="https://github.com/valedeveloper/HuellaDigital.git">Proyecto escritorio Asistencia</a>: Una aplicación de escritorio de C# .NET que registra la asistencia de estudiantes con su huella dactilar.</li>
 </ul>
-<h4>🤖 Navegando hacia el futuro, estoy explorando la inteligencia artificial y emocionantes tecnologías emergentes. 🌌</h3>
+<h4>🤖 Navegando hacia el futuro, estoy explorando la inteligencia artificial y emocionantes tecnologías emergentes. 🌌</h4>
