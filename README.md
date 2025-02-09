@@ -16,7 +16,7 @@
 </ul>
 <h3>Mi Trayectoria</h3>
 <ul>
-  <li>🌟2 años de experiencia en el mundo de la tecnología y el desarrollo web.</li>
+  <li>🌟Más de 2 años de experiencia en el mundo de la tecnología y el desarrollo. </li>
   <li>🎯Siempre en busca de nuevos desafíos y aprendizaje continuo.</li>
   <li>💡Me encanta crear aplicaciones web increíbles y aprender de cada proyecto.</li>
 </ul>
